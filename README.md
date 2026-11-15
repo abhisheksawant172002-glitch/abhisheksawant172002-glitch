@@ -43,11 +43,6 @@ A browser-based task manager built with HTML and JavaScript. It uses browser Loc
 ### [Calculator Application](https://github.com/abhisheksawant172002-glitch/Calculator-Project)
 A browser-based calculator built with HTML, Bootstrap and JavaScript, focused on interface structure and basic interactions.
 
-`HTML` `Bootstrap` `JavaScript`
-
-### Student Project Management Portal · In progress
-A course project intended to help students organise and track their final-year project work. I'm developing it as part of my full-stack web development learning journey. I'll add implementation details and a repository link when they are ready to share.
-
 ## Education
 
 **Bachelor of Engineering — Mechanical Engineering**  
